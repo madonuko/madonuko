@@ -1,20 +1,14 @@
-### Working on
-- [Terra], a rolling-release developer-friendly Fedora repository
-- [Katsu], an experimental .iso builder
-- [Andaman], an RPM, OCI and Flatpak build toolchain written in Rust
-- [rpmspec], an RPM spec parser/builder for Rust
+(Wanna know what I'm actually working on? Scroll down for the list of repositories I commit to this month!)
 
-## Hai
-madonuko = mado = madomado = <ruby>窓々<rt>まどまど</rt></ruby>? (unwrap or return)
+# Intros
 
-A not-so-professional professional nuko typist @ [Fyra Labs] and [Ultramarine Linux].
+- DevOps at [Ultramarine Project](https://ultramarine-linux.org) and [Fyra Labs](https://fyralabs.com)
+- Rust, Python, and Nim programmer usually
+- Release Engineering at [Ultramarine Linux](https://github.com/Ultramarine-Linux)
+- Amateur RPM package maintainer at [Terra](https://github.com/terrapkg/packages)
 
-Linux enthusiast, professional <ruby>にゃお<rt>nyao</rt></ruby>ing Rust programmer.
+# Stats
 
+I mean… this doesn't even work well because I mostly commit to Ultramarine and Fyra Labs, but here you go:
 
-[Terra]: https://terra.fyralabs.com
-[Katsu]: https://github.com/FyraLabs/katsu
-[Andaman]: https://github.com/FyraLabs/anda
-[rpmspec]: https://github.com/rpm-rs/rpmspec-rs
-[Fyra Labs]: https://fyralabs.com
-[Ultramarine Linux]: https://ultramarine-linux.org
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=madonuko&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
