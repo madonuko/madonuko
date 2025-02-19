@@ -7,6 +7,8 @@
 - Release Engineering at [Ultramarine Linux](https://github.com/Ultramarine-Linux)
 - Amateur RPM package maintainer at [Terra](https://github.com/terrapkg/packages)
 
+[![committers.top badge](https://user-badge.committers.top/hong_kong_public/USERNAME.svg)](https://user-badge.committers.top/hong_kong_public/USERNAME)
+
 # Stats
 
 I mean… this doesn't even work well because I mostly commit to Ultramarine and Fyra Labs, but here you go:
