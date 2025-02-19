@@ -7,7 +7,8 @@
 - Release Engineering at [Ultramarine Linux](https://github.com/Ultramarine-Linux)
 - Amateur RPM package maintainer at [Terra](https://github.com/terrapkg/packages)
 
-[![committers.top badge](https://user-badge.committers.top/hong_kong_public/USERNAME.svg)](https://user-badge.committers.top/hong_kong_public/madonuko)
+[![committers.top badge](https://user-badge.committers.top/hong_kong/madonuko.svg)](https://user-badge.committers.top/hong_kong/madonuko)
+[![committers.top badge](https://user-badge.committers.top/hong_kong_public/madonuko.svg)](https://user-badge.committers.top/hong_kong_public/madonuko)
 
 # Stats
 
